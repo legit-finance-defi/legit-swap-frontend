@@ -1,0 +1,20 @@
+body {
+  background: url('./assets/img/siteBackground.jpg') no-repeat center center fixed, #014f08;
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: 0px 0px 12px rgba(1,52,8,0.8);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* green text: #31ff00
+stake-wallet bg: #002a04
+stake squares bg: #006a0a
+stake squares glow: #a2ff00 */
